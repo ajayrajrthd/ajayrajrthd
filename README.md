@@ -1,13 +1,35 @@
-<h1 align="center">hey there I’m Ajayraj!</h1>
+<h1 align="center">Hey there, I’m Ajayraj! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  <a href="https://www.linkedin.com/in/ajayraj-rathod-b72996248/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://linktr.ee/ajayrajrthd" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+  </a>
+  <a href="mailto:ajayrajrthd7@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ajayrajrthd5" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" />
+  </a>
+  <a href="https://www.youtube.com/@ajayrajrthd5" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+  </a>
+  <a href="https://discord.gg/Qtut28eY" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  </a>
+</div>
+
+<br>
+<div align="center">
+  
+![counter](https://enn1fxhjqs0lr2a.m.pipedream.net)
+![Profile Views](https://komarev.com/ghpvc/?username=ajayrajrthd)
+[![wakatime](https://wakatime.com/badge/user/66b41135-4ace-42e3-8835-e1f376bb31e3.svg)](https://wakatime.com/@66b41135-4ace-42e3-8835-e1f376bb31e3)
+
 </div>
 
 ###
@@ -70,8 +92,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ajayrajrthd/ajayrajrthd/output/snake.svg" alt="Snake animation" />
-
+ <!-- <img src="https://raw.githubusercontent.com/ajayrajrthd/ajayrajrthd/output/snake.svg" alt="Snake animation" /> -->
+ 
 ###
 
 <div align="center">
