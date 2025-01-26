@@ -31,9 +31,9 @@
 <br>
 <div align="center">
   
-![counter](https://enn1fxhjqs0lr2a.m.pipedream.net)
+<!-- ![counter](https://enn1fxhjqs0lr2a.m.pipedream.net)
 ![Profile Views](https://komarev.com/ghpvc/?username=ajayrajrthd)
-[![wakatime](https://wakatime.com/badge/user/66b41135-4ace-42e3-8835-e1f376bb31e3.svg)](https://wakatime.com/@66b41135-4ace-42e3-8835-e1f376bb31e3)
+[![wakatime](https://wakatime.com/badge/user/66b41135-4ace-42e3-8835-e1f376bb31e3.svg)](https://wakatime.com/@66b41135-4ace-42e3-8835-e1f376bb31e3) -->
 
 </div>
 
@@ -43,11 +43,10 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently pursuing B. E. in Computer Engineering at A. P. Shah Institute of technology (University of Mumbai).<br>- 💬 Ask me about anything, I am happy to help.<br>- ⚡ Fun fact : The more you GRIND, the more you GET💫.<br>- 💼 Wanna colab on Projects? do reach.</p>
+<p align="left">- 🌱 I’m currently pursuing B. E. in Computer Engineering at A. P. Shah Institute of technology (University of Mumbai).<br>- 💬 Ask me about anything, I am happy to help.<br>- ⚡ Fun fact : The more you GRIND, the more you GET💫.<br>- 💼 Wanna colab on Projects? do reach <a href="mailto:ajayrajrthd7@gmail.com">email</a>.</p>
 
 ###
 
-<br>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -101,14 +100,20 @@
  <!-- <img src="https://raw.githubusercontent.com/ajayrajrthd/ajayrajrthd/output/snake.svg" alt="Snake animation" /> -->
  
 ###
-<br>
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/ajayrajrthd/count.svg?"  />
 </div>
 
 ###
 
-<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajayrajrthd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayrajrthd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <h2>Ajayraj's Contribution Graph<h2>
 <p align="center">
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ajayrajrthd" />
@@ -116,6 +121,3 @@
 <p>
 
 ###
-
-
-
