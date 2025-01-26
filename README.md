@@ -6,18 +6,23 @@
   <a href="https://www.linkedin.com/in/ajayraj-rathod-b72996248/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
+  
   <a href="https://linktr.ee/ajayrajrthd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
   </a>
+  
   <a href="mailto:ajayrajrthd7@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
+  
   <a href="https://www.hackerrank.com/profile/ajayrajrthd5" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" />
   </a>
+  
   <a href="https://www.youtube.com/@ajayrajrthd5" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
+  
   <a href="https://discord.gg/Qtut28eY" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
@@ -42,6 +47,7 @@
 
 ###
 
+<br>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -95,9 +101,21 @@
  <!-- <img src="https://raw.githubusercontent.com/ajayrajrthd/ajayrajrthd/output/snake.svg" alt="Snake animation" /> -->
  
 ###
-
+<br>
 <div align="center">
   <img src="https://profile-counter.glitch.me/ajayrajrthd/count.svg?"  />
 </div>
 
 ###
+
+<br>
+<h2>Ajayraj's Contribution Graph<h2>
+<p align="center">
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ajayrajrthd" />
+<br>
+<p>
+
+###
+
+
+
