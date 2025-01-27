@@ -2,34 +2,36 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ajayraj-rathod-b72996248/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+<div align="left" style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/ajayraj-rathod-b72996248/" target="_blank" style="text-decoration: none; border: 0; outline: 0;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo" />
   </a>
-  
-  <a href="https://linktr.ee/ajayrajrthd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+
+  <a href="https://linktr.ee/ajayrajrthd" target="_blank" style="text-decoration: none; border: 0; outline: 0;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="42" height="30" alt="linktree logo" />
   </a>
-  
-  <a href="mailto:ajayrajrthd7@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+
+  <a href="mailto:ajayrajrthd7@gmail.com" style="text-decoration: none; border: 0; outline: 0;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo" />
   </a>
-  
-  <a href="https://www.hackerrank.com/profile/ajayrajrthd5" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" />
+
+  <a href="https://www.hackerrank.com/profile/ajayrajrthd5" target="_blank" style="text-decoration: none; border: 0; outline: 0;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="42" height="30" alt="hackerrank logo" />
   </a>
-  
-  <a href="https://www.youtube.com/@ajayrajrthd5" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+
+  <a href="https://www.youtube.com/@ajayrajrthd5" target="_blank" style="text-decoration: none; border: 0; outline: 0;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo" />
   </a>
-  
-  <a href="https://discord.gg/Qtut28eY" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+
+  <a href="https://discord.gg/Qtut28eY" target="_blank" style="text-decoration: none; border: 0; outline: 0;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo" />
   </a>
 </div>
 
+
 <br>
 <div align="center">
+
   
 <!-- ![counter](https://enn1fxhjqs0lr2a.m.pipedream.net)
 ![Profile Views](https://komarev.com/ghpvc/?username=ajayrajrthd)
@@ -38,7 +40,7 @@
 </div>
 
 ###
-
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <h4 align="left">Hi, I'm Ajayraj Rathod, a passionate individual with a strong focus on developing scalable, sustainable social and technical systems. Interested in data analytics, Python, and web development, and driven to create impactful end-to-end products.</h4>
 
 ###
