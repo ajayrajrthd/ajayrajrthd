@@ -2,42 +2,40 @@
 
 ###
 
-<div align="left" style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/ajayraj-rathod-b72996248/" target="_blank" style="text-decoration: none; border: 0; outline: 0;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo" />
-  </a>
+<a href="https://www.linkedin.com/in/ajayraj-rathod-b72996248/">
+  <img align="left" alt="Ajayraj | LinkedIN" width="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" />
+</a>
 
-  <a href="https://linktr.ee/ajayrajrthd" target="_blank" style="text-decoration: none; border: 0; outline: 0;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="42" height="30" alt="linktree logo" />
-  </a>
+<a href="https://linktr.ee/ajayrajrthd">
+  <img align="left" alt="Ajayraj | Linktree" width="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" />
+</a>
 
-  <a href="mailto:ajayrajrthd7@gmail.com" style="text-decoration: none; border: 0; outline: 0;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo" />
-  </a>
+<a href="mailto:ajayrajrthd7@gmail.com">
+  <img align="left" alt="Ajayraj | Mail" width="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" />
+</a>
 
-  <a href="https://www.hackerrank.com/profile/ajayrajrthd5" target="_blank" style="text-decoration: none; border: 0; outline: 0;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="42" height="30" alt="hackerrank logo" />
-  </a>
+<a href="https://www.hackerrank.com/profile/ajayrajrthd5">
+  <img align="left" alt="Ajayraj | HackerRank" width="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" />
+</a>
+    
+<a href="https://www.youtube.com/@ajayrajrthd5">
+  <img align="left" alt="Ajayraj | Youtube" width="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" />
+</a>
 
-  <a href="https://www.youtube.com/@ajayrajrthd5" target="_blank" style="text-decoration: none; border: 0; outline: 0;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo" />
-  </a>
+<a href="https://discord.gg/Qtut28eY">
+  <img align="left" alt="Ajayraj | Discord" width="30" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
+</a>
 
-  <a href="https://discord.gg/Qtut28eY" target="_blank" style="text-decoration: none; border: 0; outline: 0;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo" />
-  </a>
-</div>
 
+###
 
 <br>
-<div align="center">
-
-  
-<!-- ![counter](https://enn1fxhjqs0lr2a.m.pipedream.net)
+<!-- ! <div align="center">
+[counter](https://enn1fxhjqs0lr2a.m.pipedream.net)
 ![Profile Views](https://komarev.com/ghpvc/?username=ajayrajrthd)
 [![wakatime](https://wakatime.com/badge/user/66b41135-4ace-42e3-8835-e1f376bb31e3.svg)](https://wakatime.com/@66b41135-4ace-42e3-8835-e1f376bb31e3) -->
-
 </div>
+
 
 ###
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
