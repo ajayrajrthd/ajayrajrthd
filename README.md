@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I’m Ajayraj! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1 align="center">Hey There, I’m Ajayraj! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 ###
 
@@ -107,17 +107,63 @@
 
 ###
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+### 
+
+<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> <b> GitHub Stats </b> -->
+
+  <div align="center">
+    <a href="https://quira.sh?utm_source=widgets&utm_campaign=ajayrajrthd">
+      <img src="https://stats.quira.sh/ajayrajrthd/github?theme=dark" alt="Ajayraj's GitHub | Stats" />
+    </a>
+  </div>
+
+<br>
+  
+  <table>
+  <tr>
+    <th>Languages Over Time</th>
+    <th>Topics Over Time</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://quira.sh?utm_source=widgets&utm_campaign=ajayrajrthd">
+        <img src="https://stats.quira.sh/ajayrajrthd/languages-over-time?theme=dark" 
+             alt="Ajayraj's GitHub | Languages Over Time" />
+      </a>
+    </td>
+    <td>
+      <a href="https://quira.sh?utm_source=widgets&utm_campaign=ajayrajrthd">
+        <img src="https://stats.quira.sh/ajayrajrthd/topics-over-time?theme=dark" 
+             alt="Ajayraj's GitHub | Topics Over Time" />   
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>Stats</th>
+    <th>Streak</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ajayrajrthd&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&border_radius=5&border_color=A504EB" 
+           alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayrajrthd&theme=nightowl&hide_border=false&border_color=A504EB" 
+           alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+  </table>
+  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajayrajrthd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayrajrthd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+     <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayrajrthd&theme=nightowl&hide_border=false&border_radius=5&border_color=A504EB&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
-###
-
-<h2>Ajayraj's Contribution Graph<h2>
-<p align="center">
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ajayrajrthd" />
 <br>
-<p>
 
-###
+<div align="center">
+  <img  width="1200" src="https://github-readme-activity-graph.vercel.app/graph?username=ajayrajrthd&theme=nightowl&hide_border=false&border_radius=5&border_color=A504EB" />
+</div>
+
+</details>
