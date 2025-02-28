@@ -114,9 +114,11 @@
 <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> <b> GitHub Stats </b> -->
 
   <div align="center">
-    <a href="https://quira.sh?utm_source=widgets&utm_campaign=ajayrajrthd">
-      <img src="https://stats.quira.sh/ajayrajrthd/github?theme=dark" alt="Ajayraj's GitHub | Stats" />
-    </a>
+    <!-- <a href="https://quira.sh?utm_source=widgets&utm_campaign=ajayrajrthd">
+      <img src="https://stats.quira.sh/ajayrajrthd/github?theme=dark" alt="Ajayraj's GitHub | Stats" /> -->
+    
+   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayrajrthd&theme=nightowl&hide_border=false&border_radius=5&border_color=A504EB&include_all_commits=true&count_private=true&layout=compact" /> 
+    
   </div>
 
 <br>
@@ -159,7 +161,8 @@
   </table>
   
 <div align="center">
-     <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayrajrthd&theme=nightowl&hide_border=false&border_radius=5&border_color=A504EB&include_all_commits=true&count_private=true&layout=compact" /> 
+    
+  ![Ajayraj's Contribution stats](https://github-stats-card-generator.vercel.app/api/svg?username=ajayrajrthd&type=contributions&theme=aura)
 
 </div>
 
@@ -167,8 +170,6 @@
 <div align="center">
   
  ![LeetCode Stats](https://leetcard.jacoblin.cool/ajayraj_leet?theme=transparent&font=Sunflower&ext=contest)
-
- ![ajayrajrthd's Contribution stats](https://github-stats-card-generator.vercel.app/api/svg?username=ajayrajrthd&type=contributions&theme=aura)
 </div>
 
 <br>
