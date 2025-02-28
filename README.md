@@ -163,6 +163,13 @@
 </div>
 
 <br>
+<div align="center">
+  
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/ajayraj_leet?theme=transparent&font=Sunflower&ext=contest)
+
+</div>
+
+<br>
 
 <div align="center">
   <img  width="1200" src="https://github-readme-activity-graph.vercel.app/graph?username=ajayrajrthd&theme=nightowl&hide_border=false&border_radius=5&border_color=A504EB" />
