@@ -145,14 +145,16 @@
     <th>Streak</th>
   </tr>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ajayrajrthd&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&border_radius=5&border_color=A504EB" 
-           alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayrajrthd&theme=nightowl&hide_border=false&border_color=A504EB" 
-           alt="GitHub Streak Stats" />
-    </td>
+    <td> 
+      
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ajayrajrthd?cardType=level&theme=nightowl&preferLogin=true)](https://git.io/awesome-stats-card)      
+    
+  </td>
+  <td>
+      
+  ![GitHub Stats](https://streak-stats.demolab.com?user=ajayrajrthd&theme=nightowl&hide_border=false)
+    
+   </td>
   </tr>
   </table>
   
