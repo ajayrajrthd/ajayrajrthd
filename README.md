@@ -107,11 +107,9 @@
 
 ###
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
-### 
-
-<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> <b> GitHub Stats </b> -->
+###
 
   <div align="center">
     <!-- <a href="https://quira.sh?utm_source=widgets&utm_campaign=ajayrajrthd">
