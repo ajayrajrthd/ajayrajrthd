@@ -159,7 +159,8 @@
   </table>
   
 <div align="center">
-     <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayrajrthd&theme=nightowl&hide_border=false&border_radius=5&border_color=A504EB&include_all_commits=true&count_private=true&layout=compact" />
+     <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayrajrthd&theme=nightowl&hide_border=false&border_radius=5&border_color=A504EB&include_all_commits=true&count_private=true&layout=compact" /> 
+
 </div>
 
 <br>
@@ -167,6 +168,7 @@
   
  ![LeetCode Stats](https://leetcard.jacoblin.cool/ajayraj_leet?theme=transparent&font=Sunflower&ext=contest)
 
+ ![ajayrajrthd's Contribution stats](https://github-stats-card-generator.vercel.app/api/svg?username=ajayrajrthd&type=contributions&theme=aura)
 </div>
 
 <br>
