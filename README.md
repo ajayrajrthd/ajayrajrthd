@@ -115,7 +115,7 @@
     <!-- <a href="https://quira.sh?utm_source=widgets&utm_campaign=ajayrajrthd">
       <img src="https://stats.quira.sh/ajayrajrthd/github?theme=dark" alt="Ajayraj's GitHub | Stats" /> -->
     
-   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayrajrthd&theme=nightowl&hide_border=false&border_radius=5&border_color=A504EB&include_all_commits=true&count_private=true&layout=compact" /> 
+   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayrajrthd&theme=nightowl&hide_border=false&border_radius=5&border_color=A504EB&include_all_commits=true&count_private=true&layout=compact" /> 
     
   </div>
 
