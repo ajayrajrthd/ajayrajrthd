@@ -130,12 +130,12 @@
   <tr>
     <td>
           <a href="https://quira.sh?utm_source=widgets&utm_campaign=ajayrajrthd">
-          <img src="https://stats.quira.sh/ajayrajrthd/languages-over-time?theme=dark" alt="Ajayraj's GitHub | Languages Over Time" />
+          <img src="https://stats.quira.sh/ajayrajrthd/languages-over-time?theme=dark" alt="Ajayraj's GitHub | Languages Over Time"/>
       </a>
     </td>
     <td>
           <a href="https://quira.sh?utm_source=widgets&utm_campaign=ajayrajrthd">
-          <img src="https://stats.quira.sh/ajayrajrthd/topics-over-time?theme=dark" alt="Ajayraj's GitHub | Topics Over Time" />   
+          <img src="https://stats.quira.sh/ajayrajrthd/topics-over-time?theme=dark" alt="Ajayraj's GitHub | Topics Over Time"/>   
       </a>
     </td>
   </tr>
