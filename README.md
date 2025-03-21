@@ -18,10 +18,6 @@
 <a href="https://www.hackerrank.com/profile/ajayrajrthd5">
   <img align="left" alt="Ajayraj | HackerRank" width="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" />
 </a>
-    
-<a href="https://www.youtube.com/@ajayrajrthd5">
-  <img align="left" alt="Ajayraj | Youtube" width="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" />
-</a>
 
 <a href="https://discord.gg/Qtut28eY">
   <img align="left" alt="Ajayraj | Discord" width="30" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
