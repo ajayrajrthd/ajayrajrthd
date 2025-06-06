@@ -36,7 +36,7 @@
 
 ###
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<h4 align="left">Hi, I'm Ajayraj Rathod, a passionate individual with a strong focus on developing scalable, sustainable social and technical systems. Interested in data analytics, Python, and web development, and driven to create impactful end-to-end products.</h4>
+<h4 align="left">Hi, I'm Ajayraj Rathod, A passionate person focused on building scalable and sustainable social and technical systems. A strong interest in Data Analysis, Data Science, Machine Learning, and Software Development to deliver impactful data-driven end-user solutions. Always looking to build skills and use analytics to solve real-world problems and help create meaningful user experiences.</h4>
 
 ###
 
