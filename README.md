@@ -112,7 +112,7 @@
     <!-- <a href="https://quira.sh?utm_source=widgets&utm_campaign=ajayrajrthd">
       <img src="https://stats.quira.sh/ajayrajrthd/github?theme=dark" alt="Ajayraj's GitHub | Stats" /> -->
     
-   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayrajrthd&theme=nightowl&hide_border=false&border_radius=5&border_color=A504EB&include_all_commits=true&count_private=true&layout=compact" /> 
+   <!--<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayrajrthd&theme=nightowl&hide_border=false&border_radius=5&border_color=A504EB&include_all_commits=true&count_private=true&layout=compact" />--> 
     
   </div>
 
@@ -120,20 +120,22 @@
   
   <table>
   <tr>
-    <th>Languages Over Time</th>
-    <th>Topics Over Time</th>
+    <th>Languages</th>
+    <th>Contributions</th>
   </tr>
   <tr>
-    <td>
-          <a href="https://quira.sh?utm_source=widgets&utm_campaign=ajayrajrthd">
-          <img src="https://stats.quira.sh/ajayrajrthd/languages-over-time?theme=dark" alt="Ajayraj's GitHub | Languages Over Time"/>
-      </a>
-    </td>
-    <td>
-          <a href="https://quira.sh?utm_source=widgets&utm_campaign=ajayrajrthd">
-          <img src="https://stats.quira.sh/ajayrajrthd/topics-over-time?theme=dark" alt="Ajayraj's GitHub | Topics Over Time"/>   
-      </a>
-    </td>
+    <td align="center">
+          <!--<a href="https://quira.sh?utm_source=widgets&utm_campaign=ajayrajrthd">
+          <img src="https://stats.quira.sh/ajayrajrthd/languages-over-time?theme=dark" alt="Ajayraj's GitHub | Languages Over Time"/> </a>-->
+      <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayrajrthd&theme=nightowl&hide_border=false&border_radius=5&border_color=A504EB&include_all_commits=true&count_private=true&layout=compact" />
+</td>
+  <td>
+          <!-- <a href="https://quira.sh?utm_source=widgets&utm_campaign=ajayrajrthd">
+          <img src="https://stats.quira.sh/ajayrajrthd/topics-over-time?theme=dark" alt="Ajayraj's GitHub | Topics Over Time"/> </a> -->
+                                                           
+  ![Ajayraj's Contribution stats](https://github-stats-card-generator.vercel.app/api/svg?username=ajayrajrthd&type=contributions&theme=aura)
+    
+  </td>
   </tr>
   <tr>
     <th>Stats</th>
@@ -155,14 +157,14 @@
   
 <div align="center">
     
-  ![Ajayraj's Contribution stats](https://github-stats-card-generator.vercel.app/api/svg?username=ajayrajrthd&type=contributions&theme=aura)
+  <!-- ![Ajayraj's Contribution stats](https://github-stats-card-generator.vercel.app/api/svg?username=ajayrajrthd&type=contributions&theme=aura)-->
 
 </div>
 
 <br>
 <div align="center">
   
- ![LeetCode Stats](https://leetcard.jacoblin.cool/ajayraj_leet?theme=transparent&font=Sunflower&ext=contest)
+ <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/ajayraj_leet?theme=transparent&font=Sunflower&ext=contest)-->
 </div>
 
 <br>
