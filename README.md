@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently pursuing B. E. in Computer Engineering at A. P. Shah Institute of technology (University of Mumbai).<br>- 💬 Don’t hesitate to reach out — I’d love to help!<br>- ⚡ The more effort you put in, the bigger the payoff.<br>- 💼 If you're up for a project collab, feel free to reach out via <a href="mailto:ajayrajrthd7@gmail.com">email</a>.</p>
+<p align="left">- 🌱 I’m currently pursuing B. E. in Computer Engineering at University of Mumbai.<br>- 💬 Don’t hesitate to reach out — I’d love to help!<br>- ⚡ The more effort you put in, the bigger the payoff.<br>- 💼 If you're up for a project collab, feel free to reach out via <a href="mailto:ajayrajrthd7@gmail.com">email</a>.</p>
 
 ###
 
