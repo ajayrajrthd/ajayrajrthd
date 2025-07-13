@@ -15,10 +15,6 @@
   <img align="left" alt="Ajayraj | Mail" width="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" />
 </a>
 
-<a href="https://discord.gg/Qtut28eY">
-  <img align="left" alt="Ajayraj | Discord" width="30" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
-</a>
-
 
 ###
 
