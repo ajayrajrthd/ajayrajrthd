@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently pursuing B. E. in Computer Engineering at University of Mumbai.<br>- 💬 Don’t hesitate to reach out — I’d love to help!<br>- ⚡ The more effort you put in, the bigger the payoff.<br>- 💼 If you're up for a project collab, feel free to reach out via <a href="mailto:ajayrajrthd7@gmail.com">email</a>.</p>
+<p align="left">- 🌱 I graduated from University of Mumbai with a B.E. in Computer Engineering.<br>- 💬 Don’t hesitate to reach out — I’d love to help!<br>- ⚡ The more effort you put in, the bigger the payoff.<br>- 💼 If you're up for a project collab, feel free to reach out via <a href="mailto:ajayrajrthd7@gmail.com">email</a>.</p>
 
 ###
 
@@ -86,16 +86,6 @@
 
 ###
 
- <!-- <img src="https://raw.githubusercontent.com/ajayrajrthd/ajayrajrthd/output/snake.svg" alt="Snake animation" /> -->
- 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ajayrajrthd/count.svg?"  />
-</div>
-
-###
-
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
 ###
@@ -136,7 +126,7 @@
   <tr>
     <td> 
       
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ajayrajrthd?cardType=level&theme=nightowl&preferLogin=true)](https://git.io/awesome-stats-card)      
+  ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ajayrajrthd?cardType=level&theme=nightowl&preferLogin=true)      
     
   </td>
   <td>
@@ -146,6 +136,8 @@
    </td>
   </tr>
   </table>
+
+![ajayrajrthd github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=ajayrajrthd)
   
 <div align="center">
     
