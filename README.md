@@ -116,20 +116,7 @@
           <img src="https://stats.quira.sh/ajayrajrthd/topics-over-time?theme=dark" alt="Ajayraj's GitHub | Topics Over Time"/> </a> -->
                                                            
   ![Ajayraj's Contribution stats](https://github-stats-card-generator.vercel.app/api/svg?username=ajayrajrthd&type=contributions&theme=aura)
-    
-  </td>
-  </tr>
-  <tr>
-    <th>Stats</th>
-    <th>Streak</th>
-  </tr>
-  <tr>
-    <td> 
-      
-  ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ajayrajrthd?cardType=level&theme=nightowl&preferLogin=true)      
-    
-  </td>
-  <td>
+  
       
   ![GitHub Stats](https://streak-stats.demolab.com?user=ajayrajrthd&theme=nightowl&hide_border=false)
     
@@ -153,8 +140,8 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img  width="1200" src="https://github-readme-activity-graph.vercel.app/graph?username=ajayrajrthd&theme=nightowl&hide_border=false&border_radius=5&border_color=A504EB" />
-</div>
+</div> -->
 
 </details>
