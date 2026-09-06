@@ -32,10 +32,6 @@
 
 ###
 
-<p align="left">- 🌱 I graduated from University of Mumbai with a B.E. in Computer Engineering.<br>- 💬 Don’t hesitate to reach out — I’d love to help!<br>- ⚡ The more effort you put in, the bigger the payoff.<br>- 💼 If you're up for a project collab, feel free to reach out via <a href="mailto:ajayrajrthd7@gmail.com">email</a>.</p>
-
-###
-
 <h3 align="left">🛠 Languages and tools</h3>
 
 ###
