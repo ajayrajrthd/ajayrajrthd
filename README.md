@@ -106,7 +106,12 @@
     <td align="center">
           <!--<a href="https://quira.sh?utm_source=widgets&utm_campaign=ajayrajrthd">
           <img src="https://stats.quira.sh/ajayrajrthd/languages-over-time?theme=dark" alt="Ajayraj's GitHub | Languages Over Time"/> </a>-->
-      <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayrajrthd&theme=nightowl&hide_border=false&border_radius=5&border_color=A504EB&include_all_commits=true&count_private=true&layout=compact" />
+<br>
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ajayrajrthd&layout=compact&langs_count=5&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=ajayrajrthd&layout=compact&langs_count=5&theme=algolia)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ajayrajrthd&rank_icon=github&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=ajayrajrthd&rank_icon=github&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=algolia)
+
 </td>
   <td>
           <!-- <a href="https://quira.sh?utm_source=widgets&utm_campaign=ajayrajrthd">
